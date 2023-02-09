@@ -1,0 +1,32 @@
+<wpml-config>
+	<admin-texts>
+        <key name="borrow_option">
+            <key name="header_text" />
+            <key name="header_right" /> 
+            <key name="header_layout2" />
+            <key name="phone_layout2" />
+            <key name="head_bt1" />
+			<key name="head_link1" />
+			<key name="head_bt2" />
+			<key name="head_link2" />
+			<key name="header_bank_layout" />
+			<key name="head_bank_bt" />				
+			<key name="head_bank_bl" />
+			<key name="phone_header_tabbed" />
+			<key name="header_landing" />
+			<key name="readmore_btn" />
+			<key name="action_text" />
+			<key name="action_link" />			
+			<key name="sub_nav" />
+			<key name="footer_ltext" />
+			<key name="footer_rtext" />
+			<key name="title_news" />
+			<key name="placeholder" />
+			<key name="button_news" />
+			<key name="footer_right_landing" />
+			<key name="footer_landing_rtext" />
+			<key name="footerld_bottom" />
+        </key>
+        <key name="simple_string_option" />
+    </admin-texts>
+</wpml-config>

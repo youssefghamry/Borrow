@@ -1,0 +1,1131 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-07 09:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:31
+msgid "Error"
+msgstr ""
+
+#: 404.php:69
+msgid "Sorry"
+msgstr ""
+
+#: 404.php:70
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:71
+msgid ""
+"The webpage you were trying to reach could not be found on the server, or "
+"that you typed in the URL incorrectly."
+msgstr ""
+
+#: 404.php:72
+msgid "Go to homepage"
+msgstr ""
+
+#: comments.php:25 comments.php:61
+msgid "Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:57
+msgid "Name"
+msgstr ""
+
+#: comments.php:58
+msgid "E-mail"
+msgstr ""
+
+#: comments.php:59
+msgid "Subject"
+msgstr ""
+
+#: comments.php:62
+msgid "Leave comment"
+msgstr ""
+
+#: content-audio.php:17 content-gallery.php:21 content-image.php:26
+#: content-video.php:17 content.php:9
+msgid "Read More"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:113
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:115
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:122
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:124 functions.php:134 functions.php:144 functions.php:154
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:132
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:142
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:152
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:174
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:180
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:274
+msgid "Setup Full width For Row."
+msgstr ""
+
+#: functions.php:277
+msgid "No"
+msgstr ""
+
+#: functions.php:278
+msgid "Yes"
+msgstr ""
+
+#: functions.php:280
+msgid "Select Full width for row : yes or not, Default: No fullwidth"
+msgstr ""
+
+#: functions.php:285
+msgid "Box Column"
+msgstr ""
+
+#: functions.php:288
+msgid "Section Overlay"
+msgstr ""
+
+#: functions.php:293
+msgid "Backgound color Box"
+msgstr ""
+
+#: functions.php:296
+msgid "Select color"
+msgstr ""
+
+#: header.php:45
+msgid "Search for..."
+msgstr ""
+
+#: header.php:47
+msgid "Go!"
+msgstr ""
+
+#: search.php:33
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-loan.php:94 single-team.php:69 page-templates/template-canvas.php:12
+#: page-templates/template-fullwidth.php:74
+#: page-templates/template-landing.php:57
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: single.php:142
+msgid "Related post"
+msgstr ""
+
+#: single.php:157
+msgid "in"
+msgstr ""
+
+#: single.php:172
+msgctxt "Previous post link"
+msgid ""
+"<span class=\"prev-link\"> previous post</span> <h4 class=\"title\"> %title "
+"</h4>"
+msgstr ""
+
+#: single.php:175
+msgctxt "Next post link"
+msgid ""
+"<span class=\"next-link\"> next post </span><h4 class=\"title\"> %title</h4>"
+msgstr ""
+
+#: single.php:194
+msgid "View All Post"
+msgstr ""
+
+#: framework/meta-boxes.php:17
+msgid "Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:24
+msgid "Image"
+msgstr ""
+
+#: framework/meta-boxes.php:31
+msgid "Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:37
+msgid "Quote"
+msgstr ""
+
+#: framework/meta-boxes.php:45
+msgid "Author"
+msgstr ""
+
+#: framework/meta-boxes.php:51
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:60
+msgid "Video"
+msgstr ""
+
+#: framework/meta-boxes.php:69
+msgid "Image 2"
+msgstr ""
+
+#: framework/meta-boxes.php:79
+msgid "Page Settings"
+msgstr ""
+
+#: framework/meta-boxes.php:86 framework/meta-boxes.php:172
+msgid "Background image subheader"
+msgstr ""
+
+#: framework/meta-boxes.php:87
+msgid "upload image"
+msgstr ""
+
+#: framework/meta-boxes.php:93
+msgid "Action Text"
+msgstr ""
+
+#: framework/meta-boxes.php:94 framework/meta-boxes.php:106
+#: framework/meta-boxes.php:118 framework/meta-boxes.php:192
+#: framework/meta-boxes.php:204
+msgid "Enter the text for button in header page."
+msgstr ""
+
+#: framework/meta-boxes.php:99
+msgid "Action Link"
+msgstr ""
+
+#: framework/meta-boxes.php:100 framework/meta-boxes.php:112
+#: framework/meta-boxes.php:124 framework/meta-boxes.php:198
+#: framework/meta-boxes.php:210 framework/meta-boxes.php:222
+#: framework/meta-boxes.php:234 framework/meta-boxes.php:246
+#: framework/meta-boxes.php:258 framework/meta-boxes.php:270
+#: framework/meta-boxes.php:282
+msgid "Add link."
+msgstr ""
+
+#: framework/meta-boxes.php:105 framework/meta-boxes.php:191
+msgid "Button Text the left"
+msgstr ""
+
+#: framework/meta-boxes.php:111 framework/meta-boxes.php:197
+msgid "Link Button the left"
+msgstr ""
+
+#: framework/meta-boxes.php:117 framework/meta-boxes.php:203
+msgid "Button Text the right"
+msgstr ""
+
+#: framework/meta-boxes.php:123 framework/meta-boxes.php:209
+msgid "Link Button the right"
+msgstr ""
+
+#: framework/meta-boxes.php:133
+msgid "Team Details"
+msgstr ""
+
+#: framework/meta-boxes.php:141
+msgid "Location"
+msgstr ""
+
+#: framework/meta-boxes.php:142
+msgid "Location of team"
+msgstr ""
+
+#: framework/meta-boxes.php:152
+msgid "Loan Details"
+msgstr ""
+
+#: framework/meta-boxes.php:159 framework/meta-boxes.php:298
+#: framework/meta-boxes.php:333
+msgid "Subtitle"
+msgstr ""
+
+#: framework/meta-boxes.php:160 framework/meta-boxes.php:299
+#: framework/meta-boxes.php:334
+msgid "Add subtitle"
+msgstr ""
+
+#: framework/meta-boxes.php:165
+msgid "Upload icon image for loan."
+msgstr ""
+
+#: framework/meta-boxes.php:166
+msgid ""
+"Used in the \"OT Loan\" element with Style \"Grid Style with Icon Image\""
+msgstr ""
+
+#: framework/meta-boxes.php:173
+msgid ""
+"If not upload background image, it is use image default for all page setup "
+"in theme option."
+msgstr ""
+
+#: framework/meta-boxes.php:179
+msgid "rate number"
+msgstr ""
+
+#: framework/meta-boxes.php:180
+msgid "Enter the number. Ex 12.5%"
+msgstr ""
+
+#: framework/meta-boxes.php:185
+msgid "Rate Text"
+msgstr ""
+
+#: framework/meta-boxes.php:186 framework/meta-boxes.php:216
+#: framework/meta-boxes.php:228 framework/meta-boxes.php:240
+#: framework/meta-boxes.php:252 framework/meta-boxes.php:264
+#: framework/meta-boxes.php:276
+msgid "Enter the text"
+msgstr ""
+
+#: framework/meta-boxes.php:215
+msgid "Text Nav menu 1"
+msgstr ""
+
+#: framework/meta-boxes.php:221
+msgid "Link nav menu 1"
+msgstr ""
+
+#: framework/meta-boxes.php:227
+msgid "Text Nav menu 2"
+msgstr ""
+
+#: framework/meta-boxes.php:233
+msgid "Link nav menu 2"
+msgstr ""
+
+#: framework/meta-boxes.php:239
+msgid "Text Nav menu 3"
+msgstr ""
+
+#: framework/meta-boxes.php:245
+msgid "Link nav menu 3"
+msgstr ""
+
+#: framework/meta-boxes.php:251
+msgid "Text Nav menu 4"
+msgstr ""
+
+#: framework/meta-boxes.php:257
+msgid "Link nav menu 4"
+msgstr ""
+
+#: framework/meta-boxes.php:263
+msgid "Text Nav menu 5"
+msgstr ""
+
+#: framework/meta-boxes.php:269
+msgid "Link nav menu 5"
+msgstr ""
+
+#: framework/meta-boxes.php:275
+msgid "Text Nav menu 6"
+msgstr ""
+
+#: framework/meta-boxes.php:281
+msgid "Link nav menu 6"
+msgstr ""
+
+#: framework/meta-boxes.php:291
+msgid "Credit Card Details"
+msgstr ""
+
+#: framework/meta-boxes.php:304 framework/meta-boxes.php:363
+#: framework/sample-config.php:484
+msgid "Button Text"
+msgstr ""
+
+#: framework/meta-boxes.php:305 framework/meta-boxes.php:364
+msgid "Add text for button"
+msgstr ""
+
+#: framework/meta-boxes.php:310 framework/meta-boxes.php:369
+msgid "Button Link"
+msgstr ""
+
+#: framework/meta-boxes.php:311 framework/meta-boxes.php:370
+msgid "Add link for button, leave a blank do not show button."
+msgstr ""
+
+#: framework/meta-boxes.php:316 framework/meta-boxes.php:375
+msgid "Short Content"
+msgstr ""
+
+#: framework/meta-boxes.php:317 framework/meta-boxes.php:376
+msgid "Add short content for \"OT Credit Card Grid\" element."
+msgstr ""
+
+#: framework/meta-boxes.php:326
+msgid "Lender Details"
+msgstr ""
+
+#: framework/meta-boxes.php:339
+msgid "Advertised Rate Title"
+msgstr ""
+
+#: framework/meta-boxes.php:340
+msgid "Add Advertised Rate Title"
+msgstr ""
+
+#: framework/meta-boxes.php:345
+msgid "Advertised Rate Number"
+msgstr ""
+
+#: framework/meta-boxes.php:346
+msgid "Add Advertised Rate Number"
+msgstr ""
+
+#: framework/meta-boxes.php:351
+msgid "Comparison Rate Title"
+msgstr ""
+
+#: framework/meta-boxes.php:352
+msgid "Add Comparison Rate Title"
+msgstr ""
+
+#: framework/meta-boxes.php:357
+msgid "Comparison Rate Number"
+msgstr ""
+
+#: framework/meta-boxes.php:358
+msgid "Add Comparison Rate Number"
+msgstr ""
+
+#: framework/plugin-requires.php:9
+msgid "Meta Box"
+msgstr ""
+
+#: framework/plugin-requires.php:16
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/plugin-requires.php:23
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/plugin-requires.php:28
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: framework/plugin-requires.php:33
+msgid "Newsletter"
+msgstr ""
+
+#: framework/plugin-requires.php:38
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/plugin-requires.php:49
+msgid "OT Team"
+msgstr ""
+
+#: framework/plugin-requires.php:55
+msgid "OT Loan"
+msgstr ""
+
+#: framework/plugin-requires.php:61
+msgid "OT Gallery"
+msgstr ""
+
+#: framework/plugin-requires.php:67
+msgid "OT Credit Card"
+msgstr ""
+
+#: framework/plugin-requires.php:73
+msgid "OT Lender"
+msgstr ""
+
+#: framework/plugin-requires.php:79
+msgid "OT Visual Composer"
+msgstr ""
+
+#: framework/plugin-requires.php:90
+msgid "WP Amortization Calculator"
+msgstr ""
+
+#: framework/plugin-requires.php:101
+msgid "OT One Click Import Demo"
+msgstr ""
+
+#: framework/sample-config.php:87
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/sample-config.php:88 framework/sample-config.php:93
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: framework/sample-config.php:92
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/sample-config.php:99
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: framework/sample-config.php:118
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: framework/sample-config.php:123
+msgid "Breadcrumbs Off?"
+msgstr ""
+
+#: framework/sample-config.php:124
+msgid "Look, it's on!"
+msgstr ""
+
+#: framework/sample-config.php:130
+msgid "Google Map API Key"
+msgstr ""
+
+#: framework/sample-config.php:131
+msgid "Add your Google map api key"
+msgstr ""
+
+#: framework/sample-config.php:132
+msgid ""
+"Create your Gmap API key here: https://developers.google."
+"com/maps/documentation/javascript/"
+msgstr ""
+
+#: framework/sample-config.php:140
+msgid "Preload Settings"
+msgstr ""
+
+#: framework/sample-config.php:145
+msgid "Preload Off?"
+msgstr ""
+
+#: framework/sample-config.php:146
+msgid "If you do not want to use preload, you can turn it off."
+msgstr ""
+
+#: framework/sample-config.php:152
+msgid "Preloader Style"
+msgstr ""
+
+#: framework/sample-config.php:153
+msgid "Preloader style: preload logo or preload progress"
+msgstr ""
+
+#: framework/sample-config.php:154
+msgid "You can choose one of two preload style, Default: Progress Style."
+msgstr ""
+
+#: framework/sample-config.php:164
+msgid "Preload Text Color"
+msgstr ""
+
+#: framework/sample-config.php:165
+msgid "Pick the preload text color (default: #ffffff)."
+msgstr ""
+
+#: framework/sample-config.php:172
+msgid "Preload Background Color"
+msgstr ""
+
+#: framework/sample-config.php:173
+msgid "Pick the preload background color (default: #000000)."
+msgstr ""
+
+#: framework/sample-config.php:181
+msgid "Preloader percentage"
+msgstr ""
+
+#: framework/sample-config.php:182
+msgid "Number 100% running"
+msgstr ""
+
+#: framework/sample-config.php:200
+msgid "Logo Style"
+msgstr ""
+
+#: framework/sample-config.php:208
+msgid "Logo Preload (Logo Style)"
+msgstr ""
+
+#: framework/sample-config.php:211
+msgid "Upload your logo preload"
+msgstr ""
+
+#: framework/sample-config.php:212
+msgid "Recommended size: 158px & 42px"
+msgstr ""
+
+#: framework/sample-config.php:218
+msgid "Logo width (Logo Style)"
+msgstr ""
+
+#: framework/sample-config.php:219
+msgid "Input logo width, default: 158"
+msgstr ""
+
+#: framework/sample-config.php:225
+msgid "Logo height (Logo Style)"
+msgstr ""
+
+#: framework/sample-config.php:226
+msgid "Input logo height, default: 42"
+msgstr ""
+
+#: framework/sample-config.php:234
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+#: framework/sample-config.php:240 framework/sample-config.php:244
+msgid "Favicon"
+msgstr ""
+
+#: framework/sample-config.php:243
+msgid "Upload your favicon."
+msgstr ""
+
+#: framework/sample-config.php:251 framework/sample-config.php:255
+#: framework/sample-config.php:577
+msgid "Logo"
+msgstr ""
+
+#: framework/sample-config.php:254
+msgid "Upload your logo."
+msgstr ""
+
+#: framework/sample-config.php:262
+msgid "Header Settings"
+msgstr ""
+
+#: framework/sample-config.php:267
+msgid "Images Option for Header Layout"
+msgstr ""
+
+#: framework/sample-config.php:268
+msgid "Select Header Layout"
+msgstr ""
+
+#: framework/sample-config.php:288
+msgid "Background Color Header static"
+msgstr ""
+
+#: framework/sample-config.php:289
+msgid "Pick the background color for header static (default: #fff)."
+msgstr ""
+
+#: framework/sample-config.php:298
+msgid "Text Color Header static"
+msgstr ""
+
+#: framework/sample-config.php:299
+msgid "Pick the text color for header static (default: #66707f)."
+msgstr ""
+
+#: framework/sample-config.php:308
+msgid "Background Color Header scroll and sticky header"
+msgstr ""
+
+#: framework/sample-config.php:309
+msgid "Pick the background color for sticky header (default: #fff)."
+msgstr ""
+
+#: framework/sample-config.php:318
+msgid "Text Color Header scroll and sticky header"
+msgstr ""
+
+#: framework/sample-config.php:319
+msgid "Pick the text color for sticky header (default: #66707f)."
+msgstr ""
+
+#: framework/sample-config.php:328
+msgid "Top header"
+msgstr ""
+
+#: framework/sample-config.php:335
+msgid "Top Header"
+msgstr ""
+
+#: framework/sample-config.php:337
+msgid ""
+"For all three headers layout, you can enable/disable the topbar on the "
+"header if you want."
+msgstr ""
+
+#: framework/sample-config.php:342
+msgid "The text top left header"
+msgstr ""
+
+#: framework/sample-config.php:349
+msgid "The content top right header"
+msgstr ""
+
+#: framework/sample-config.php:356
+msgid "Background Color Top Header"
+msgstr ""
+
+#: framework/sample-config.php:357
+msgid "Pick the color for top header (default: #15549a)."
+msgstr ""
+
+#: framework/sample-config.php:364
+msgid "Color Top Header"
+msgstr ""
+
+#: framework/sample-config.php:365
+msgid "Pick the color for top header (default: #83bcfa)."
+msgstr ""
+
+#: framework/sample-config.php:373
+msgid "Header layout 2"
+msgstr ""
+
+#: framework/sample-config.php:380
+msgid "Top header layout 2"
+msgstr ""
+
+#: framework/sample-config.php:387
+msgid "Header Fixed on Top"
+msgstr ""
+
+#: framework/sample-config.php:389
+msgid "If you want fixed on top page and on banner slider."
+msgstr ""
+
+#: framework/sample-config.php:400
+msgid "Header layout 3"
+msgstr ""
+
+#: framework/sample-config.php:407
+msgid "Button Text 1"
+msgstr ""
+
+#: framework/sample-config.php:408
+msgid "The text of action link 1 in header layout 3"
+msgstr ""
+
+#: framework/sample-config.php:414
+msgid "Button Link 1"
+msgstr ""
+
+#: framework/sample-config.php:415
+msgid "Add link of action link 1 in header layout 3"
+msgstr ""
+
+#: framework/sample-config.php:421
+msgid "Button Text 2"
+msgstr ""
+
+#: framework/sample-config.php:422
+msgid "The text of action link 2 in header layout 3"
+msgstr ""
+
+#: framework/sample-config.php:428
+msgid "Button Link 2"
+msgstr ""
+
+#: framework/sample-config.php:429
+msgid "Add link of action link 2 in header layout 3"
+msgstr ""
+
+#: framework/sample-config.php:437
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/sample-config.php:442
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/sample-config.php:443
+msgid "Click on image layout to chooise"
+msgstr ""
+
+#: framework/sample-config.php:444
+msgid "Select layout you want use for all your blog page."
+msgstr ""
+
+#: framework/sample-config.php:448
+msgid "1 Column"
+msgstr ""
+
+#: framework/sample-config.php:452
+msgid "2 Column Left"
+msgstr ""
+
+#: framework/sample-config.php:456
+msgid "2 Column Right"
+msgstr ""
+
+#: framework/sample-config.php:466 framework/sample-config.php:469
+#: framework/sample-config.php:470
+msgid "Background Subheader Pages"
+msgstr ""
+
+#: framework/sample-config.php:476 framework/sample-config.php:478
+msgid "Blog custom excerpt lenght"
+msgstr ""
+
+#: framework/sample-config.php:477
+msgid "Input Blog custom excerpt lenght"
+msgstr ""
+
+#: framework/sample-config.php:485
+msgid "Input Read More Button Text"
+msgstr ""
+
+#: framework/sample-config.php:486
+msgid "Empty to use translate multi-languages"
+msgstr ""
+
+#: framework/sample-config.php:492
+msgid "Button Text Subheader"
+msgstr ""
+
+#: framework/sample-config.php:498
+msgid "Link Out"
+msgstr ""
+
+#: framework/sample-config.php:504
+msgid "Sub navigation in subheader"
+msgstr ""
+
+#: framework/sample-config.php:511
+msgid "404 Settings"
+msgstr ""
+
+#: framework/sample-config.php:517
+msgid "Background Error Pages"
+msgstr ""
+
+#: framework/sample-config.php:525
+msgid "Loan Settings"
+msgstr ""
+
+#: framework/sample-config.php:530
+msgid "Amount"
+msgstr ""
+
+#: framework/sample-config.php:536
+msgid "Min Amount"
+msgstr ""
+
+#: framework/sample-config.php:542
+msgid "Max Amount"
+msgstr ""
+
+#: framework/sample-config.php:548
+msgid "Year"
+msgstr ""
+
+#: framework/sample-config.php:554
+msgid "Min Year"
+msgstr ""
+
+#: framework/sample-config.php:560
+msgid "Max Year"
+msgstr ""
+
+#: framework/sample-config.php:567
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/sample-config.php:573
+msgid "Logo Footer"
+msgstr ""
+
+#: framework/sample-config.php:576
+msgid "logo."
+msgstr ""
+
+#: framework/sample-config.php:584
+msgid "Pages Select Option"
+msgstr ""
+
+#: framework/sample-config.php:585
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: framework/sample-config.php:586
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: framework/sample-config.php:591
+msgid "Footer Left Text"
+msgstr ""
+
+#: framework/sample-config.php:592
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/sample-config.php:598
+msgid "Footer Right Text"
+msgstr ""
+
+#: framework/sample-config.php:599
+msgid "Text"
+msgstr ""
+
+#: framework/sample-config.php:606
+msgid "Newsletter footer"
+msgstr ""
+
+#: framework/sample-config.php:613
+msgid "Newsletter Footer"
+msgstr ""
+
+#: framework/sample-config.php:615
+msgid "Default: On."
+msgstr ""
+
+#: framework/sample-config.php:620
+msgid "Title newsletter in footer"
+msgstr ""
+
+#: framework/sample-config.php:626
+msgid "Placeholder newsletter in footer"
+msgstr ""
+
+#: framework/sample-config.php:632
+msgid "Button twxt newsletter in footer"
+msgstr ""
+
+#: framework/sample-config.php:640
+msgid "Styling Options"
+msgstr ""
+
+#: framework/sample-config.php:645
+msgid "Theme Main Color"
+msgstr ""
+
+#: framework/sample-config.php:646
+msgid "Pick the main color for the theme (default: #f51f8a)."
+msgstr ""
+
+#: framework/sample-config.php:653
+msgid "Hover Background Button Default"
+msgstr ""
+
+#: framework/sample-config.php:654
+msgid "Pick the main color for the button default (default: #ff389c)."
+msgstr ""
+
+#: framework/sample-config.php:661
+msgid "main Color 2"
+msgstr ""
+
+#: framework/sample-config.php:662
+msgid "Pick the  color for the theme (default: #15549a)."
+msgstr ""
+
+#: framework/sample-config.php:669
+msgid "Hover Background Button Primary"
+msgstr ""
+
+#: framework/sample-config.php:670
+msgid "Pick the main color for the button default (default: #2573cb)."
+msgstr ""
+
+#: framework/sample-config.php:678
+msgid "Body Font"
+msgstr ""
+
+#: framework/sample-config.php:679
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/sample-config.php:692
+msgid "CSS Code"
+msgstr ""
+
+#: framework/sample-config.php:693
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:36
+#, php-format
+msgctxt "post author"
+msgid "By: %s"
+msgstr ""
+
+#: framework/template-tags.php:44
+msgid "0 "
+msgstr ""
+
+#: framework/template-tags.php:44
+msgid "01 "
+msgstr ""
+
+#: framework/template-tags.php:44
+msgid "% "
+msgstr ""
+
+#: framework/template-tags.php:46 framework/template-tags.php:46
+#: framework/template-tags.php:46
+msgid "comments"
+msgstr ""
+
+#: framework/template-tags.php:121
+msgid "Previous"
+msgstr ""
+
+#: framework/template-tags.php:122
+msgid "Next"
+msgstr ""
+
+#: framework/template-tags.php:150
+msgid "Search&hellip;"
+msgstr ""
+
+#: framework/template-tags.php:172
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:177
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Name of the template
+msgid "Template Blog Three Columns"
+msgstr ""
+
+#: page-templates/template-blog-three-column.php:180
+#: page-templates/template-blog-two-column.php:126
+msgid "by "
+msgstr ""
+
+#: page-templates/template-blog-three-column.php:182
+#: page-templates/template-blog-two-column.php:129
+msgid "Read more"
+msgstr ""
+
+#. Name of the template
+msgid "Template Blog Two Columns"
+msgstr ""
+
+#. Name of the template
+msgid "Template Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Template Canvas"
+msgstr ""
+
+#. Name of the template
+msgid "Template FullWidth"
+msgstr ""
+
+#. Name of the template
+msgid "Template Landing Page"
+msgstr ""
+
+#: page-templates/template-landing.php:46
+msgid "Back to Page"
+msgstr ""
+
+#: framework/widget/recent-post.php:10
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: framework/widget/recent-post.php:11
+msgid "borrow Recent Posts"
+msgstr ""
+
+#: framework/widget/recent-post.php:80
+msgid "Title:"
+msgstr ""
+
+#: framework/widget/recent-post.php:83
+msgid "Number of posts to show:"
+msgstr ""
+
+#: framework/widget/recent-post.php:87
+msgid "Display post date?"
+msgstr ""
+
+#. Name of the theme
+msgid "Borrow"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Are you small and local loan company and looking for a design and redesign "
+"your loan website. Borrow is specially designed to demonstrate your "
+"company’s loan product service online."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.oceantheme.net/borrow"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""

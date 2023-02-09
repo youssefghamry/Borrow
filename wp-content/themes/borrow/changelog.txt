@@ -1,0 +1,105 @@
+31/10/2022 - Version 1.5.5
+- Updated: Theme compatible with WordPress 6.0.3
+- Updated: OT Visual Composer plugin version 1.3.7
+- Updated: The WPBakery Page Builder plugin version 6.10.0
+- Files Updated: plugin-requires.php, style.css.
+
+09/03/2022 - Version 1.5.3
+- Updated: Theme compatible with WordPress 5.9.1
+- Updated: The WPBakery Page Builder plugin version 6.8.0
+- Files Updated: plugin-requires.php, style.css.
+
+15/03/2020 - Version 1.5.2
+- Updated: Theme compatible with WordPress 5.7
+- Updated: The WPBakery Page Builder plugin version 6.6.0
+- Updated: WP Amortization Calculator Plugin version: 1.5.5
+- Improved: Improving the post format option in backend.
+- Files Updated: plugin-requires.php, admin-script.js, style.css
+
+01/06/2020 - Version 1.5.0
+- Updated: The WPBakery Page Builder plugin version 6.2.0
+- Updated: OT Visual Composer plugin version 1.3.6
+- Updated: WP Amortization Calculator Plugin version: 1.5.3
+- Updated: Bootstrap 4
+- New added: OT Forex plugin.
+- Files Updated: functions.php, meta-boxs.php, template-tags.php, plugin-requires.php, single-forex.php, footer.php, content-quote.php, style.css
+
+
+06/02/2020 - Version 1.4.8
+- Updated: The WPBakery Page Builder plugin version 6.1
+- Updated: WP Amortization Calculator Plugin version: 1.4.5
+- Updated: OT Visual Composer plugin version 1.3.5
+- Files Updated: plugin-requires.php, style.css
+
+29/07/2019 - Version 1.4.7
+- Updated: The WPBakery Page Builder plugin version 6.0.5
+- New added: WPML file, that file help translate theme option in multiple languages.
+- Files Updated: plugin-requires.php, style.css
+
+18/06/2019 - Version 1.4.6
+- Updated: The WPBakery Page Builder plugin version 6.0.3
+- New added: Option Sticky Header On/Off for Header In Borrow Options -> Header Settings -> Header Sticky Off?
+- Files Updated: plugin-requires.php, template-tags.php, header.php, header-*.php, template-home-*.php, template-landing-*.php, custom.js, style.css
+
+03/06/2019 - Version 1.4.5
+- Updated: The WPBakery Page Builder plugin version 6.0.2
+- Updated: WP Amortization Calculator Plugin version: 1.4.4
+- Updated: OT Visual Composer plugin version 1.3.4
+- New added: Options select Credit Card Categories in OT Credit Card Grid, OT Credit Card Compare elements 
+- Files Updated: plugin-requires.php, style.css
+
+10/04/2019 - Version 1.4.4
+- Updated: The WPBakery Page Builder plugin version 5.7
+- Updated: WP Amortization Calculator Plugin version: 1.4.2 - (Last Update: 14 February, 2019)
+- Files Updated: plugin-requires.php, sample-config.php, style.css
+
+20/12/2018 - Version 1.4.3
+- New added: Option for Boxed Version / Wide Version for your website in Borrow Options -> Styling Options -> Theme Version -> Select Wide or Boxed
+- Files Updated: sample-config.php, header-*.php, footer.php, template-tags.php, style.css
+
+13/12/2018 - Version 1.4.2
+- Updated: The Theme compatible with WordPress 5.x
+- Updated: The WPBakery Page Builder plugin version 5.6
+- Files Updated: plugin-requires.php, style.css
+
+13/11/2018 - Version 1.4.0
+- Updated: Visual Composer plugin version 5.5.5
+- Updated: One Click Import Demo plugin 1.4.0
+- Improved: Improving the php, css code
+- Fixed: Fix some bugs.
+- Files Updated: plugin-requires.php, header-*.php, style.css
+
+13/07/2018 - Version 1.3.0
+- New added: New homepages, landing pages, new bank website template.
+- Updated: Visual Composer plugin version 5.5.2
+- Updated: OT Visual Composer plugin version 1.3.3
+- Updated: One Click Import Demo plugin
+- Files Updated: plugin-requires.php, style.css
+
+21/09/2017 - Version 1.2.0
+- Updated: OT Visual Composer plugin version 1.3.0
+- Updated: Visual Composer plugin version 5.4.5
+- Updated: WP Amortization Calculator plugin version 1.1.11
+- New added: Two Options for Preload Logo and Preload Progress
+- Files Updated: functions.php, plugin-requires.php, sample-config.php, header-*.php, custom.js, style.css
+
+22/06/2017 - Version 1.1.0
+- Updated: Demo content include
+- Included: include WP Amortization Calculator plugin
+- Fixed: fix some bugs. 
+- Files Edited: style.css, functions.php, sample-config.php, color.php
+
+12/06/2017 - Version 1.0.2
+- Improved: improve responsive for slider 
+- Fixed: fix some bugs. 
+- Files Edited: custom.js, color.php, style.css
+
+30/03/2017 - Version 1.0.1
+- Updated: Documentation
+- Updated: Translate files borrow.pot
+- Updated: All Plugins Include
+- Fixed: Some bugs
+- Files Edited: style.css, functions.php, sample-config.php
+
+29/03/2017 - Version 1.0.0
+*First Release
