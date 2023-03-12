@@ -32,8 +32,20 @@
 - EMI Calculator
 
 - Using our Loan EMI Calculator feature will help your loan customer to calculate their needs.
+
+## Watch an explanatory video
+
+https://youtu.be/qKcAJAc1nx0
 ## Some project's views on devices
 
+
+ <img src="https://raw.githubusercontent.com/youssefghamry/Borrow/main/1.png">
+ 
+ ## 1
+  <img src="https://raw.githubusercontent.com/youssefghamry/Borrow/main/2.png">
+## 2
+  <img src="https://raw.githubusercontent.com/youssefghamry/Borrow/main/3.png">
+## 3
 
 
 
